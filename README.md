@@ -5,11 +5,13 @@
 
 - 👋 Hi, I’m @tejasam571
 - 👀 I’m interested in FULL STACK DEVELOPMENT
-- 🌱 I’m currently into LEETCODE , 
+- 🌱 I’m currently into LEETCODE ,
+                                       [![An image of @tejasam571's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejasam571)](https://holopin.io/@tejasam571)
+
 - 
 - 📫 How to reach me : tejasam571@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: every code do-not Run
+- ⚡ Fun fact: every code do-not Run  
 
 
 ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/9c8202ac-3892-4917-a8c6-f50e65eaff1a)
