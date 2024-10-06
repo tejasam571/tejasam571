@@ -16,6 +16,19 @@
 
 ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/9c8202ac-3892-4917-a8c6-f50e65eaff1a)
 
+![Tejas A M's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasam571)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasam571)](https://github.com/tejasam571/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
 
 <!---
 tejasam571/tejasam571 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
