@@ -1,4 +1,5 @@
 
+![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/9c8202ac-3892-4917-a8c6-f50e65eaff1a)
 
 
 
@@ -13,7 +14,6 @@
 - ⚡ Fun fact: every code do-not Run  
 
 
-![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/9c8202ac-3892-4917-a8c6-f50e65eaff1a)
 
 ![Tejas A M's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasam571)
 
