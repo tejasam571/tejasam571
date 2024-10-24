@@ -15,9 +15,9 @@
 
 
 
-![Tejas A M's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasam571)
+![Tejas A M's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasam571)                               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasam571)](https://github.com/tejasam571/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasam571)](https://github.com/tejasam571/github-readme-stats)
+
 
 
 
