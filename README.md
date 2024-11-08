@@ -11,7 +11,9 @@
 - 
 - 📫 How to reach me : tejasam571@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: every code do-not Run  
+- ⚡ Fun fact: every code do-not Run
+-  RESUME : [TEJAS_AM_Resume.pdf](https://github.com/user-attachments/files/17681243/TEJAS_AM_Resume.pdf)
+
 
 
 ## GSSOC(24) Badges 🪶
