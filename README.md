@@ -3,7 +3,7 @@
 
 
 
-- 👋 Hi, I’m @tejasam571
+- 👋 Hi, I’m @tejasam571 .
 - 👀 I’m interested in FULL STACK DEVELOPMENT.
 - 
  [![An image of @tejasam571's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejasam571)](https://holopin.io/@tejasam571)
