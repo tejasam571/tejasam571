@@ -18,14 +18,12 @@
 </div>
 
 ## GSSOC(25) Mentor 
-<div>
-  <img src="https://raw.githubusercontent.com/<username>/<repo>/<branch>/<folder>/mentor-  badge.png" 
-     width="100px" 
-     height="100px" 
-     alt="GSSoC 2025 Project Circle Mentor Badge" />
- ![Selected Mentor badge png](https://github.com/user-attachments/assets/2269ee79-a1c8-4323-a1fb-1c54fe0b9244)
+<img src="https://github.com/user-attachments/assets/5339fa14-52a8-488a-9d5b-7a6086ae4879" 
+     width="100" 
+     height="100" 
+     alt="Selected Mentor badge"/>
 
-</div>
+
 
 
 
