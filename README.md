@@ -18,13 +18,7 @@
 </div>
 
 ## GSSOC(25) Mentor 
-<img src="https://github.com/user-attachments/assets/5339fa14-52a8-488a-9d5b-7a6086ae4879" 
-     width="100" 
-     height="100" 
-     alt="Selected Mentor badge"/>
-
-
-
+<img width="100" height="100" alt="Selected_Mentor_badge png-removebg-preview" src="https://github.com/user-attachments/assets/76aac62c-43b6-4521-b9f4-f614f9c4abfa" />
 
 
 
