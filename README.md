@@ -23,6 +23,8 @@
      width="100px" 
      height="100px" 
      alt="GSSoC 2025 Project Circle Mentor Badge" />
+ ![Selected Mentor badge png](https://github.com/user-attachments/assets/2269ee79-a1c8-4323-a1fb-1c54fe0b9244)
+
 </div>
 
 
