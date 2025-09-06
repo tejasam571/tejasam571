@@ -1,6 +1,6 @@
 ## TEJAS A M
 - 👋 Hi, I’m @tejasam571 .
-- 👀 I’m interested in AI/ML and Devops.
+- 👀 I’m interested in AI/ML,Devops and Java FullStack.
  [![An image of @tejasam571's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejasam571)](https://holopin.io/@tejasam571)
 - 📫 How to reach me : tejasam571@gmail.com
 - 😄 Pronouns: He/Him
